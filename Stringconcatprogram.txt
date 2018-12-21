@@ -1,0 +1,5 @@
+S1 = input ("Enter String1:")
+S2 = input ("Enter String2:")
+S3 = S1+S2
+print("Concatenated String:",S3)
+

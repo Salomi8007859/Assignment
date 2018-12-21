@@ -1,0 +1,8 @@
+Number1 = int(input ("ENTER THE FIRST NUMBER:"))
+Number2 = int(input ("ENTER THE SECOND NUMBER:"))
+if(Number1==Number2)
+print("Both the Numbers are equal")
+elif(Number1>Number2)
+print(Number1,"is greater")
+else
+print(Number2,"is greater")

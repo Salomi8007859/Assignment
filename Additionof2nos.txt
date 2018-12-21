@@ -1,0 +1,5 @@
+Number1 = int(input ("ENTER THE FIRST NUMBER:"))
+Number2 = int(input ("ENTER THE SECOND NUMBER:"))
+Number3 = Number1+Number2
+print("Addition of both the numbers is:",Number3)
+
