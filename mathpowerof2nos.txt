@@ -1,0 +1,17 @@
+Using Math:
+
+import math
+Number1 = int(input ("ENTER THE FIRST NUMBER:"))
+Number2 = int(input ("ENTER THE SECOND NUMBER:"))
+print(math.pow(Number1,2))
+print(math.pow(Number2,2))
+
+
+Using from Math import*:
+
+from math import*
+
+Number1 = int(input ("ENTER THE FIRST NUMBER:"))
+Number2 = int(input ("ENTER THE SECOND NUMBER:"))
+print(pow(Number1,2))
+print(pow(Number2,2))
